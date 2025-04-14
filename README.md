@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s
 <h1 align="center">Hi 👋, I'm khushi lalwani</h1>
 <h3 align="center">A passionate AI enthusiast and tech explorer, building the future one line of code at a time</h3>
 <img align="right" alt="Coding" width="400" src=
